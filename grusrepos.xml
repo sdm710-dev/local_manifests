@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="sdm710-dev/android_device_xiaomi_grus" path="device/xiaomi/grus" revision="lineage-18.1" />
+  <project name="sdm710-dev/hardware_qcom_display-caf" path="hardware/qcom-caf/sdm845/display" revision="lineage-18.1/sdm845" />
+  <project name="sdm710-dev/proprietary_vendor_qcom_sdclang" path="vendor/qcom/sdclang" revision="ruby" />
+  <project name="sdm710-dev/android_device_xiaomi_sdm710-common" path="device/xiaomi/sdm710-common" revision="lineage-18.1" />
+  <project name="sdm710-dev/android_kernel_xiaomi_sdm710" path="kernel/xiaomi/sdm710" revision="caf" />
+  <project name="sdm710-dev/android_vendor_xiaomi_grus" path="vendor/xiaomi" revision="lineage-18.1" />
+</manifest>
